@@ -37,7 +37,7 @@ C:\mount\JBD2C4R1\Farm ^\
 C:\mount\JBD3C4R5\Farm ^
 
 Directories containing .plot files. Add these in config.yaml\
-  plot_directories:\
+  plot_directories:
   - R:\Farm\
   - C:\mount\JBD1C4R1\Farm\
   - G:\Farm\
